@@ -1,5 +1,4 @@
 # TP1
- integrante-B
 #
 INTEGRANTES: Nehuén Rojas, Facundo Calabró, Stephanie Righetti
 =======
